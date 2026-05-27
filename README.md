@@ -1,7 +1,13 @@
-# note_counter
-Esse código simula um caixa eletrônico, mostrando a quantidade mínima de notas para sacar um determinado valor
+# Caixa Eletrônico simples
+Esse código simula um caixa eletrônico
 
-# funcionalidades
+o código tem as seguintes opções:
+- saque
+- Depósito
+- Ver saldo
+- Sair 
+
+## funcionalidades do Saque
 
 mostra notas de:
 - 100
@@ -12,20 +18,26 @@ mostra notas de:
 - 2
 - e moedas de 1
 
-# linguagem utilizada
+## linguagem utilizada
 
 - Python
 
-# conceitos praticados
+## conceitos praticados
 
 - Função
 - if (condições)
 - while (repetição)
 - Divisão inteira (//)
 - Operador módulo ("Resto de divisão" %)
+- tratamento de erros (try/except)
+- Manipulação de variáveis
+- Manipulação de strings(`strip()` e `lower()`)
 
-# como executar
+## como executar
 
 ```bash
 python3 countage.py
 ```
+### status
+
+Finalizado
